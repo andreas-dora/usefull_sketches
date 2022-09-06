@@ -1,0 +1,22 @@
+{
+  "savePath": "/Users/andi/Desktop/screenShots/",
+  "fontSet": {
+    "minFSize": 80,
+    "maxFSize": 400,
+    "sampleStr": "Last Weekend I went out to the club with my boy,the quick brown fox, and he was chilling",
+    "size": 74,
+    "fontname": "Futura-Medium"
+  },
+  "colorSet": {
+    "isRandom": 1,
+    "randomCSet": {
+      "maxAlpha": 91,
+      "minBr": 62,
+      "minAlpha": 76,
+      "maxBr": 91,
+      "maxSat": 89,
+      "backC": 1,
+      "minSat": 21
+    }
+  }
+}

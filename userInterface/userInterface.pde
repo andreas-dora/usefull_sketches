@@ -180,12 +180,12 @@ for(int i = 0; i < 6; i++){
 
 textAlign(CENTER,TOP);
   textFont(courier,34);
-  text(minSat,menuX+30,678);
-  text(maxSat,menuX+120,678);
-  text(minBr,menuX+200,678);
-  text(maxBr,menuX+280,678);
-  text(minAlpha,menuX+350,678);
-  text(maxAlpha,menuX+430,678);
+  text(nf(minSat,2),menuX+30,678);
+  text(nf(maxSat,2),menuX+120,678);
+  text(nf(minBr,2),menuX+200,678);
+  text(nf(maxBr,2),menuX+280,678);
+  text(nf(minAlpha,2),menuX+350,678);
+  text(nf(maxAlpha,2),menuX+430,678);
   
 
 
